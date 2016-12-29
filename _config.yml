@@ -30,7 +30,7 @@ sidebar_tags:        [PROJECT, PUBLICATION]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
-color:               '#A85641'
+color:               '#3d85c6'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
