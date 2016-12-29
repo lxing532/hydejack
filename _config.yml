@@ -13,7 +13,7 @@ url:                 http://qwtel.com
 # i.e. `http://<username>.github.io`
 baseurl:             /hydejack
 
-title:               Hydejack
+title:               Linzi Xing
 
 # Pagination
 paginate:            5
@@ -26,7 +26,7 @@ description:         >
   You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [PROJECT, PUBLICATION]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
