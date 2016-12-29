@@ -11,16 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
+PROJECT:
+  name: PROJECT
   image: /hydejack/public/img/hyde.jpg
   color: '#949667'
   description: >
     Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
     It’s based on Poole, the Jekyll butler.
 
-jekyll:
-  name: Jekyll
+PUBLICATION:
+  name: PUBLICATION
   image: /hydejack/public/img/jekyll.jpg
   color: '#949667'
   description: >
