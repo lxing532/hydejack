@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [PROJECT, PUBLICATION]
 
 # Fallback image and color if not overwritten for tag or post
-image:               hydejack/public/img/nap.jpg
+image:               http://deanxing.net/public/img/nap.jpg
 color:               '#f48c42'
 
 # Fonts
