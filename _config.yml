@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://qwtel.com
+url:                 http://deanxing.net
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -27,8 +27,8 @@ description:         >
 sidebar_tags:        [PROJECT, PUBLICATION]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
-color:               '#3d85c6'
+image:               hydejack/public/img/nap.jpg
+color:               '#f48c42'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
