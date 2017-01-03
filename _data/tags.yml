@@ -15,17 +15,17 @@ PROJECT:
   name: PROJECT
   image: http://deanxing.net/public/img/city.jpg
   color: '#949667'
-  description: >
+  description: > 
 
 PUBLICATION:
   name: PUBLICATION
-  image: http://deanxing.net/public/img/jekyll.jpg
+  image: http://deanxing.net/public/img/walk.jpg
   color: '#949667'
   description: >
   
 LIFE:
   name: LIFE
-  image: http://deanxing.net/public/img/jekyll.jpg
+  image: http://deanxing.net/public/img/tree.jpg
   color: '#949667'
   description: >
 
