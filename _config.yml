@@ -49,12 +49,9 @@ author:
     
     PERSONAL INFO
     
-    - **To bold text**, use `**To bold text**`.
-    - *To italicize text*, use `*To italicize text*`.
-    - Abbreviations, like HTML should be defined like this `*[HTML]: HyperText Markup Language`.
-    - Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-    - ~~Deleted~~ text should use `~~deleted~~` and <ins>inserted</ins> text should use `<ins>`.
-    - Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`[^1].
+    - DOB: 10/15/1993
+    - Phone: +1 3038750929
+    - Email: Linzi.Xing@colorado.edu
     
     Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
     I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
