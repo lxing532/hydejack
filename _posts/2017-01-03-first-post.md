@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post
-tags: [life]
+tags: [LIFE]
 description: >
   This is the first post on this web page! This web page is based on template from qutel. Thanks for the amazing work!
 ---
