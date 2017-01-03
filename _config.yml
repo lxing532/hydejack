@@ -28,7 +28,7 @@ sidebar_tags:        [PROJECT, PUBLICATION, LIFE]
 
 # Fallback image and color if not overwritten for tag or post
 image:               http://deanxing.net/public/img/london.JPG
-color:               '#f48c42'
+color:               '#41a9f4'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
