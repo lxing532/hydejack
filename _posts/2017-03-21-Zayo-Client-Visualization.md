@@ -12,5 +12,5 @@ This visualization can be mainly used to predict the Zayo's target clients' attr
 
 The visualization tool is built by [d3.js](https://d3js.org/), [dc.js](https://dc-js.github.io/dc.js/) and [leaflet](http://leafletjs.com/). All these three are open-source javascript libraries. There are five different visualizations which combined as the final dashboard. They are: Map, Monthly Revenue and CPQ Analysis, MRR Analysis, Group Performance Analysis and Tabular Exploration. The first version was mainly created by dc.js. Marks on map can be filtered by the market, stage and clients' industry.
 
-![800x400](http://deanxing.net/public/img/IMG_4924.JPG "Agriculture Hall"){:.lead}
-![800x400](http://deanxing.net/public/img/IMG_4990.JPG "Lake beside library")
+![800x400](http://deanxing.net/public/img/zayo1.png "Version 1 with dc.js"){:.lead}
+![800x400](http://deanxing.net/public/img/zayo2.png "Final Version")
