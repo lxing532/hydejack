@@ -6,7 +6,7 @@ description: >
   Final project of [CSCI5352](http://tuvalu.santafe.edu/~aaronc/courses/5352/).
 ---
 - **Member**: Linzi Xing
-- **Project page**: [Click here](https://github.com/lxing532/infoMap_project).
+- **Project page**: For project repository, [click here](https://github.com/lxing532/infoMap_project). For final report, [click here](http://deanxing.net/public/paper/infomapprojectwriteup.pdf)
 
 In the area of Network Science, community detection is always a very significant task. There are several mainstream methods wildly used like Modularity and Infomap. In this project, i try to implement Infomap algorithm on my own with Matlab which hasn't been used to implement and posted on [official website](http://www.mapequation.org/code.html).
 
