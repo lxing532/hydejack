@@ -6,7 +6,7 @@ description: >
   IEEE International Conference on Healthcare Informatics (ICHI), Park City, Utah. August 2017.
 ---
 - **Member**: Xiaolei Huang, Linzi Xing, Jed R. Brubaker, Michael J. Paul
-- **Project page**: [Click here](http://deanxing.net/public/paper/suicide.pdf).
+- **Paper**: [Click here](http://deanxing.net/public/paper/suicide.pdf).
 
 Suicide is one of leading causes of death worldwide,
 yet little data is available about the lives of suicide victims
