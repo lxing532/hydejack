@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Incorporating Metadata into Content-Based User Embeddings
-tags: [PROJECT]
+tags: [PUBLICATION]
 description: >
   Independent Study project of CSCI5900 with Michael.J.Paul(thesis advisor).
 ---
